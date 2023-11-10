@@ -1,9 +1,99 @@
-<mxfile host="app.diagrams.net" modified="2023-11-10T17:09:51.620Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="22.1.0" etag="1J0Uz59MtPDPYp6yUnlb" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-10T20:57:23.471Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="75oaCaEAzHyyqIFrsUGH" version="22.1.0" type="github">
   <diagram name="Página-1" id="PZsnEOT159gROg5EdwEW">
-    <mxGraphModel>
+    <mxGraphModel dx="1787" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hyGLTZjJFXtHgqbH6BYv-1" target="hyGLTZjJFXtHgqbH6BYv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hyGLTZjJFXtHgqbH6BYv-1" target="hyGLTZjJFXtHgqbH6BYv-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-80" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hyGLTZjJFXtHgqbH6BYv-1" target="hyGLTZjJFXtHgqbH6BYv-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hyGLTZjJFXtHgqbH6BYv-1" target="hyGLTZjJFXtHgqbH6BYv-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hyGLTZjJFXtHgqbH6BYv-1" target="hyGLTZjJFXtHgqbH6BYv-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hyGLTZjJFXtHgqbH6BYv-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hyGLTZjJFXtHgqbH6BYv-1" target="hyGLTZjJFXtHgqbH6BYv-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-1" value="&lt;div&gt;Ciclo de Vida del Software: Identificación y Caracterización de Requisitos&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" width="196" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hyGLTZjJFXtHgqbH6BYv-6" target="hyGLTZjJFXtHgqbH6BYv-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-6" value="1. Inicio de proyectos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="170" width="196" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-8" value="Recolección de Requisitos:&lt;br&gt;- Identificación de Stakeholders.&lt;br&gt;- Entrevistas con usuarios y partes interesadas.&lt;br&gt;- Análisis de documentos existentes." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-452" y="390" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hyGLTZjJFXtHgqbH6BYv-11" target="hyGLTZjJFXtHgqbH6BYv-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-11" value="2. Análisis de Requisitos:" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-13" value="&lt;div&gt;&lt;div&gt;Análisis de Requisitos:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Requisitos Funcionales:&lt;/div&gt;&lt;div&gt;Identificación de funciones y procesos clave.&lt;/div&gt;&lt;div&gt;Especificación de casos de uso.&lt;/div&gt;&lt;div&gt;Requisitos No Funcionales:&lt;/div&gt;&lt;div&gt;Definición de criterios de rendimiento.&lt;/div&gt;&lt;div&gt;Establecimiento de requisitos de seguridad y usabilidad.&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="370" width="160" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hyGLTZjJFXtHgqbH6BYv-16" target="hyGLTZjJFXtHgqbH6BYv-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-16" value="&lt;div&gt;3 .Documentacion&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="140" width="196" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-19" value="&lt;div&gt;&lt;div&gt;Especificación de Requisitos&lt;/div&gt;&lt;div&gt;:&lt;/div&gt;&lt;div&gt;Documento detallado de requisitos funcionales y no funcionales.&lt;/div&gt;&lt;div&gt;Diagramas de flujo o diagramas de casos de uso.&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="340" width="196" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hyGLTZjJFXtHgqbH6BYv-22" target="hyGLTZjJFXtHgqbH6BYv-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-22" value="4. Validación de requisitos" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="368" y="150" width="168" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-26" value="&lt;div&gt;Revisión con Stakeholders:&lt;/div&gt;&lt;div&gt;Sesiones de revisión con los usuarios y partes interesadas.&lt;/div&gt;&lt;div&gt;Asegurarse de que los requisitos sean comprensibles y completos.&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="373" y="350" width="158" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hyGLTZjJFXtHgqbH6BYv-29" target="hyGLTZjJFXtHgqbH6BYv-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-29" value="5. Gestion de cambios" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-32" value="Control de Versiones:&#xa;Establecimiento de un sistema para manejar cambios en los requisitos.&#xa;Seguimiento de versiones de documentos." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="370" width="110" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hyGLTZjJFXtHgqbH6BYv-37" target="hyGLTZjJFXtHgqbH6BYv-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-37" value="6. Implementacion y&amp;nbsp; desarrollo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-39" value="Diseño del Sistema:&#xa;Traducción de requisitos en un diseño técnico.&#xa;Creación de prototipos si es necesario." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="375" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hyGLTZjJFXtHgqbH6BYv-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1150" y="369.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-41" value="7. Pruebas" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
