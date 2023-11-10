@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-10T20:57:23.471Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="75oaCaEAzHyyqIFrsUGH" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-10T21:00:56.317Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="fLZUi0cvys6Mh7TaE_XI" version="22.1.0" type="github">
   <diagram name="Página-1" id="PZsnEOT159gROg5EdwEW">
-    <mxGraphModel dx="1787" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3920" dy="1682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,6 +28,14 @@
         </mxCell>
         <mxCell id="hyGLTZjJFXtHgqbH6BYv-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hyGLTZjJFXtHgqbH6BYv-1" target="hyGLTZjJFXtHgqbH6BYv-41">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hyGLTZjJFXtHgqbH6BYv-1" target="hyGLTZjJFXtHgqbH6BYv-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hyGLTZjJFXtHgqbH6BYv-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1650" y="180" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="hyGLTZjJFXtHgqbH6BYv-1" value="&lt;div&gt;Ciclo de Vida del Software: Identificación y Caracterización de Requisitos&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" width="196" height="120" as="geometry" />
@@ -93,6 +101,29 @@
         </mxCell>
         <mxCell id="hyGLTZjJFXtHgqbH6BYv-41" value="7. Pruebas" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-44" value="&lt;div&gt;Verificación de Requisitos:&lt;/div&gt;&lt;div&gt;Asegurarse de que el software cumpla con todos los requisitos.&lt;/div&gt;&lt;div&gt;Pruebas unitarias, de integración y de sistema.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="375" width="140" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hyGLTZjJFXtHgqbH6BYv-45" target="hyGLTZjJFXtHgqbH6BYv-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-45" value="8. Despliegue" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-47" value="Implementación en Producción: Despliegue del software en el entorno de producción. Monitorización inicial y ajustes si es necesario." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="370" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hyGLTZjJFXtHgqbH6BYv-50" target="hyGLTZjJFXtHgqbH6BYv-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1650" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-50" value="9. mantenimiento" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hyGLTZjJFXtHgqbH6BYv-52" value="&lt;div&gt;Gestión de Cambios Post-implementación:&lt;/div&gt;&lt;div&gt;Manejar solicitudes de cambios después del despliegue.&lt;/div&gt;&lt;div&gt;Actualizaciones y parches según sea necesario.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="370" width="120" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
